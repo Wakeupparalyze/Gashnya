@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gashnya", "Gashnya\Gashnya.csproj", "{17882864-FDF0-4C52-8C0F-0546C6370766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GashnyaLohotron", "GashnyaLohotron\GashnyaLohotron.csproj", "{8397760D-3CAB-4EA7-A08E-B7B09AC061B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17882864-FDF0-4C52-8C0F-0546C6370766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17882864-FDF0-4C52-8C0F-0546C6370766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17882864-FDF0-4C52-8C0F-0546C6370766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17882864-FDF0-4C52-8C0F-0546C6370766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8397760D-3CAB-4EA7-A08E-B7B09AC061B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8397760D-3CAB-4EA7-A08E-B7B09AC061B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8397760D-3CAB-4EA7-A08E-B7B09AC061B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8397760D-3CAB-4EA7-A08E-B7B09AC061B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8FDB06B-3DB7-49CF-B8AE-7A8938FA3866}
+	EndGlobalSection
+EndGlobal
